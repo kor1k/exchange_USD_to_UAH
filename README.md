@@ -1,4 +1,5 @@
 ### Simple exchanger by kor1k
+`https://kor1k.github.io/exchange_USD_to_UAH`
 ___
 ##### Simple page, through which you can convert your salary from `USD` to `UAH`, rely on actual exchange rate from `National Bank of Ukraine API`.
 #### Resources
